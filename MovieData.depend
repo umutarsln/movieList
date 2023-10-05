@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1622407313 source:c:\users\umut3\desktop\data project\moviedata\main.cpp
+	<iostream>
+	<string>
+	"movieList.h"
+
+1622407490 c:\users\umut3\desktop\data project\moviedata\movielist.h
+
+1622407145 source:c:\users\umut3\desktop\data project\moviedata\movielistsrc.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<fstream>
+	"movieList.h"
+
